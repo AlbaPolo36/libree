@@ -130,7 +130,7 @@ dd {
 
 .main {
     background: #4c6886;
-    width: 70%;
+    width:max-content;
     max-width: 1000px;
     margin: 1px auto;
 }
