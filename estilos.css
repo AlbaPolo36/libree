@@ -31,4 +31,52 @@ body {
     background-color: rgb(211, 212, 212);
 }
 
+#foto1{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
+#foto2{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
+#foto3{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
+#foto4{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
+#foto5{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
+#foto6{
+    max-width: 40%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: inline-block;
+margin: auto;
+}
 
