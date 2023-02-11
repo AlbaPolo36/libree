@@ -95,24 +95,30 @@ dl {
 
 .img1 {
     margin-inline-start: auto;
+    text-align: right;
 }
 
 .img2 {
     margin-inline: auto;
+    text-align: right;
 }
 
 .img3 {
     margin-inline: auto;
+    text-align: right;
 }
 
 .img4 {
     margin-inline: auto;
+    text-align: right;
 }
 
 .img5 {
     margin-inline: auto;
+    text-align: right;
 }
 
 .img6 {
     margin-inline-end: auto;
+    text-align: right;
 }
