@@ -1,5 +1,5 @@
 h1 {
-    color: #008B8B;
+    color: var(--gold);
 }
 
 h1 {
@@ -28,7 +28,7 @@ body {
 
 
 body {
-    background-color: rgb(164, 240, 221);
+    background-color: #061e36;
 }
 
 #columna1 {
