@@ -87,6 +87,11 @@ dl {
     text-align: start;
 }
 
+dd {
+    font-size: x-large;
+    text-align:inherit;
+}
+
 .contenedor {
     display: flex;
     justify-content: center;
