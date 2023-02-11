@@ -31,52 +31,50 @@ body {
     background-color: rgb(211, 212, 212);
 }
 
-#culumna{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
-}
-#culumna2{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
-}
-#culumna3{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
-}
-#culumna4{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
-}
-#culumna5{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
-}
-#culumna6{
-    max-width: 40%;
-height: auto;
-margin: 20px;
-padding: 5px;
-display: inline-block;
-margin: auto;
+#culumna {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
 }
 
+#culumna2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#culumna3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#culumna4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#culumna5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#culumna6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 10px;
+}
