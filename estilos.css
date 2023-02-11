@@ -1,5 +1,9 @@
+body {
+    background-color: #223549;
+}
+
 h1 {
-    color: gold;
+    color: rgb(238, 238, 238);
 }
 
 h1 {
@@ -14,20 +18,15 @@ h1 {
     font-size: 300%;
 }
 
-li {
+div {
     text-align: center;
 }
 
-body {
+div {
     font-style: initial
+    
 }
 
-body {
+div {
     font-size: small;
 }
-
-
-body {
-    background-color: #204870;
-}
-
