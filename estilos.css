@@ -130,14 +130,14 @@ dd {
 
 .main {
     background: #4c6886;
-    width: 100%;
+    width: 70%;
     max-width: 1000px;
     margin: 20px auto;
 }
 
 .main .articles {
     width: 68.5%;
-    margin-right: 1%;
+    margin-right: 1.5%;
     float: left;
 }
 
