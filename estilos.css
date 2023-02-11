@@ -50,9 +50,6 @@ h3 {
     text-align: center;
 }
 
-div {
-    text-align: center;
-}
 
 div {
     font-style: initial
@@ -74,6 +71,10 @@ p {
     color: white;
 }
 
+p {
+    text-align: start;
+}
+
 dl {
     color: rgb(238, 238, 238);
 }
@@ -82,9 +83,14 @@ dl {
     font-size: large;
 }
 
+dl {
+    text-align: start;
+}
+
 .contenedor {
     display: flex;
     justify-content: center;
+    text-align: right;
 }
 
 .img1 {
