@@ -33,3 +33,32 @@ p {
 dl {
     font-size: large;
 }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.img1 {
+    margin-inline-start: auto;
+}
+
+.img2 {
+    margin-inline: auto;
+}
+
+.img3 {
+    margin-inline: auto;
+}
+
+.img4 {
+    margin-inline: auto;
+}
+
+.img5 {
+    margin-inline: auto;
+}
+
+.img6 {
+    margin-inline-end: auto;
+}
