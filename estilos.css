@@ -127,3 +127,24 @@ dd {
     margin-inline-end: auto;
     text-align: right;
 }
+
+.main {
+	background: #fff;
+	width: 90%;
+	max-width: 1000px;
+	margin:20px auto;
+}
+
+.main .articles {
+		width: 68.5%;
+		margin-right: 1.5%;
+		float:left;
+	}
+	.main .articles article{
+		padding: 20px;
+		background: #fff;
+		margin-bottom: 20px;
+	}
+  p.p-mid {
+    padding: 20px;
+  }
