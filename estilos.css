@@ -31,7 +31,7 @@ body {
     background-color: rgb(211, 212, 212);
 }
 
-#foto1{
+#culumna{
     max-width: 40%;
 height: auto;
 margin: 20px;
@@ -39,7 +39,7 @@ padding: 5px;
 display: inline-block;
 margin: auto;
 }
-#foto2{
+#culumna2{
     max-width: 40%;
 height: auto;
 margin: 20px;
@@ -47,7 +47,7 @@ padding: 5px;
 display: inline-block;
 margin: auto;
 }
-#foto3{
+#culumna3{
     max-width: 40%;
 height: auto;
 margin: 20px;
@@ -55,7 +55,7 @@ padding: 5px;
 display: inline-block;
 margin: auto;
 }
-#foto4{
+#culumna4{
     max-width: 40%;
 height: auto;
 margin: 20px;
@@ -63,7 +63,7 @@ padding: 5px;
 display: inline-block;
 margin: auto;
 }
-#foto5{
+#culumna5{
     max-width: 40%;
 height: auto;
 margin: 20px;
@@ -71,7 +71,7 @@ padding: 5px;
 display: inline-block;
 margin: auto;
 }
-#foto6{
+#culumna6{
     max-width: 40%;
 height: auto;
 margin: 20px;
