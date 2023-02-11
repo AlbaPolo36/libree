@@ -1,5 +1,5 @@
 h1 {
-    color: var(--gold);
+    color: gold;
 }
 
 h1 {
@@ -28,53 +28,6 @@ body {
 
 
 body {
-    background-color: #061e36;
+    background-color: #204870;
 }
 
-#columna1 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}
-
-#columna2 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}
-
-#columna3 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}
-
-#columna4 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}
-
-#columna5 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}
-
-#columna6 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    margin-top: 10px;
-}

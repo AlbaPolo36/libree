@@ -7,3 +7,97 @@
                                 data-image-name="img/Top_icon.webp" data-image-key="img/Top_icon.webp"
                                 data-src="AlbaPolo36/libree/img/Top_icon.webp"></a></span><span
                         style="white-space:normal;"><a href="img/Top_icon.webp">Top</a></span></span></b>
+                        #columna1 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+                        
+                        #columna2 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+                        
+                        #columna3 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+                        
+                        #columna4 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+                        
+                        #columna5 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+                        
+                        #columna6 {
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            width: 200px;
+                            margin-top: 10px;
+                        }
+
+                        <div id="columna1">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/e/ef/Top_icon.png/revision/latest?cb=20181117143602">
+                            </b>
+                        </div>
+            
+                        <div id="columna2">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Jungle_icon.png/revision/latest?cb=20181117143559">
+                        </div>
+            
+                        <div id="columna3">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Middle_icon.png/revision/latest?cb=20181117143644">
+                            </b>
+                        </div>
+            
+                        <div id="columna4">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Bottom_icon.png/revision/latest?cb=20181117143632">
+                            </b>
+                        </div>
+            
+                        <div id="columna5">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Support_icon.png/revision/latest?cb=20181117143601">
+                            </b>
+                        </div>
+            
+                        <div id="columna6">
+                            <b style="margin: 0px; background: #0e0e0e; height: 100%"><img
+                                    style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"
+                                    img
+                                    src="https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Roamer_icon.png/revision/latest?cb=20171030151016">
+                            </b>
+                        </div>
