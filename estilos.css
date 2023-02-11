@@ -14,6 +14,42 @@ h1 {
     font-size: 300%;
 }
 
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(238, 238, 238);
+}
+
+h2 {
+    font-style: oblique;
+}
+
+h2 {
+    font-size: 300%;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(238, 238, 238);
+}
+
+h3 {
+    font-style: oblique;
+}
+
+h3 {
+    font-size: 300%;
+}
+
+h3 {
+    text-align: center;
+}
+
 div {
     text-align: center;
 }
@@ -26,8 +62,20 @@ div {
     font-size: large;
 }
 
+div {
+    color: white;
+}
+
 p {
     font-size: large;
+}
+
+p {
+    color: white;
+}
+
+dl {
+    color: rgb(238, 238, 238);
 }
 
 dl {
