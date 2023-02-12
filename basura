@@ -106,3 +106,10 @@
                         <img src="img/Top_icon.webp" borde="0" alt="¿">
 
                         <img src="imagen.jpg" hspace="5" vspace="5" style="float: none;" />
+
+                        <img alt="Top" src="img/Top_icon.webp"
+                                                    decoding="async" loading="lazy" width="20" height="20"
+                                                    class="thumbborder ls-is-cached lazyloaded"
+                                                    data-image-name="img/Top_icon.webp"
+                                                    data-image-key="img/Top_icon.webp"
+                                                    data-src="img/Top_icon.webp">
